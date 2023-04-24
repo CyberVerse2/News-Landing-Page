@@ -247,7 +247,7 @@ aside div p {
 } */
 
 /* Responsiveness for the screen of 375px */
-@media screen and (max-width: 76.8rem) {
+@media screen and (max-width: 48rem) {
   nav ul {
     display: none;
   }
